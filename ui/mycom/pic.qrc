@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>3.JPG</file>
+        <file>1.JPG</file>
+        <file>2.JPG</file>
+        <file>22.png</file>
+        <file>1.png</file>
+        <file>jurassic park2.jpeg</file>
+        <file>jurassic park.jpeg</file>
+        <file>jurassic world.jpg</file>
+        <file>红灯.jpg</file>
+        <file>绿灯.jpg</file>
+        <file>主界面.jpg</file>
+    </qresource>
+</RCC>
